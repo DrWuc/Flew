@@ -8,5 +8,5 @@ namespace Flew.Util.StrHelper
 {
     class Class1
     {
-    }
+    } 
 }
