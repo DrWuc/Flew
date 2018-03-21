@@ -8,5 +8,5 @@ namespace Flew.Util
 {
     public class Class1
     {
-    }
+    } 
 }
