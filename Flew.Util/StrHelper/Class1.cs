@@ -4,10 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Flew.Util
+namespace Flew.Util.StrHelper
 {
-    public class Class1
+    class Class1
     {
-        //
     }
 }
