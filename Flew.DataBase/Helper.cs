@@ -12,7 +12,6 @@ namespace Flew.DataBase
     /// </summary>
     public static class Helper
     {
-
         /// <summary>
         /// 将实体集合转换为DataTable
         /// </summary>
