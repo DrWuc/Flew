@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Flew.Util
 {
-    public class Class1
+    public class CoreHelper
     {
     } 
 }
